@@ -47,7 +47,7 @@ async function processHtmlFile(filePath) {
 
       // Delete files referenced in removed srcset items
       for (const file of filesToDelete) {
-        const fullPath = join('archive/', file);
+        const fullPath = join('docs/', file);
         try {
           await unlink(fullPath);
           console.log(`Deleted: ${fullPath}`);
