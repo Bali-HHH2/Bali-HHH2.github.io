@@ -1,0 +1,9 @@
+How to use Nslookup to verify MX record configuration
+
+    At a command prompt, type nslookup, and then press ENTER.
+
+    Type server <IP address>, where IP address is the IP address of your external DNS server, and then press ENTER.
+
+    Type set q=MX, and then press ENTER.
+
+    Type <domain name>, where domain name is the name of your domain, and then press ENTER. The MX record for the domain you entered should be displayed. If the MX record is not displayed, DNS is not configured properly.

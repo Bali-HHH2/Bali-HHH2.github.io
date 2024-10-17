@@ -1,0 +1,288 @@
+@charset "UTF-8";
+
+/* Navitabs menu */
+#navitabs {clear:both;}
+
+.navitab {
+	background:#609c43 url(images/corner.gif) top right no-repeat;
+	border-bottom:1px solid #fff;
+	border-left:1px solid #fff;
+	font-size:0.9em;	
+	color:#fff;
+	margin:0 0 0px;
+	padding:2px 4px 2px 4px;
+	text-decoration:none;
+	font-family: Comic Sans MS, cursive;
+}
+.navitab:hover {
+	background:#17f221 url(images/corner.gif) top right no-repeat;
+	border-bottom:1px solid #fff;
+	color:#fff;
+	text-decoration:none;
+	font-family: "Comic Sans MS", cursive;
+}
+.activenavitab {
+	background:#505050 url(images/corner.gif) top right no-repeat;
+	color:#fff;
+	font-size:0.9em;
+	margin:0 0 5px;
+	padding:4px 8px 5px;
+	text-decoration:none;
+	font-family: "Comic Sans MS", cursive;
+}
+.activenavitab:hover {
+	color:#fff;
+	text-decoration:none;
+	font-family: "Comic Sans MS", cursive;
+}
+.toptab {
+	width:721px;
+	height:30px;
+	text-align:top;
+	text-align:right;
+}
+.banner {
+	width:721px;
+	height:100px;
+}
+.sidebar {
+	width:177px;
+	height:100%;
+	background:#FFFFCC;	
+	padding:10px 1px 10px 0px;
+	border-top:1px solid #4f8a1e;
+	border-left:1px solid #4f8a1e;
+	border-right:1px solid #4f8a1e;
+	border-bottom:1px solid #4f8a1e;
+	margin-bottom:8px;
+}
+.sidelink {
+	font-family: Comic Sans MS, cursive;
+	font-size: 12px;
+	color: #000;
+	text-decoration:none;
+	text-align: left;
+}
+.andy {
+	font-family: Comic Sans MS, cursive;
+	font-size: 10px;
+	color: #000;
+	text-decoration:bold;
+	text-align: center;
+}
+.goals {
+	font-family: Comic Sans MS, cursive;
+	font-size: 10px;	
+	padding:0 5px 0 0;
+	color: #000;
+	text-decoration:none;
+	text-align: left;
+}
+.runheader {
+	font-family: AvantGarde Bk BT, AvantGarde Md BT, Arial, Verdana;
+	font-weight: bold;
+	color: #336666;
+	font-size: 18px;
+	text-align: left;
+}
+.pagebanner {
+	float:left;
+	width:860px;
+	background: url(headerimages/sunsetheader.jpg) top right no-repeat;
+	font-family: AvantGarde Bk BT, AvantGarde Md BT, Arial, Verdana;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: left;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pageheader {
+	font-family: Helvetica, AvantGarde Bk BT, AvantGarde Md BT, Arial, Verdana;
+	font-weight: bold;
+	color: #cc0033;
+	font-size: 20px;
+	font-width: 180%;
+	text-align: center;
+	margin-bottom:8px;
+}.pageheader2 {
+	font-family: 'Raleway', Geneva, Helvetica, Trebuchet MS, Geneva, Arial, sans-serif;
+	line-height: 120%;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+	color: #cc0033;
+}
+.hareraiser {
+	width:687px;
+	font-family: 'Raleway', Geneva, Helvetica, Verdana, Arial ;
+	font-style: normal;	
+	color: #336633;
+	line-height: 1.4em;
+	font-size: 14px;
+	text-align: left;
+	padding:8px 8px 2px 15px;
+	border-top:1px solid #4f8a1e;
+	border-left:1px solid #4f8a1e;
+	border-right:1px solid #4f8a1e;
+	border-bottom:1px solid #4f8a1e;
+	margin-right:8px;
+	margin-bottom:8px;
+}
+.pagebanner1 {
+	float:left;
+	width:860px;
+	height:150px;
+	background: url(headerimages/sunsetheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pagebanner2 {
+	float:left;
+	width:860px;
+	height:150px;
+	background: url(headerimages/drinkatsunsetheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pagebanner3 {
+	float:left;
+	width:860px;
+	height:150px;
+	background: url(headerimages/grassrunnerheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pagebanner4 {
+	float:left;
+	width:860px;
+	height:150px;
+	background: url(headerimages/piperheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pagebanner5 {
+	float:left;
+	width:860px;
+	height:150px;
+	background: url(headerimages/hornbeerheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.pagebanner6 {
+	float:left;
+	width:860px;
+	height:1500px;
+	background: url(headerimages/runnersheader.jpg) top right no-repeat;
+	padding:20px 20px 20px 20px;
+	margin-top:2px;
+	margin-bottom:8px;
+}
+.header1 {
+	font-family: AvantGarde Bk BT, AvantGarde Md BT, Arial, Verdana;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: left;
+}
+.header2 {
+	font-family: AvantGarde Bk BT, AvantGarde Md BT, Arial, Verdana;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: left;
+}
+.body {
+	font-family: 'Muli', Geneva, Verdana, Arial, Trebuchet MS, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: 120%;
+	font-size: 14px;
+	text-align: left;
+}
+.bodycenter {
+	font-family: 'Muli', Geneva, Verdana, Arial, Trebuchet MS, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: 120%;
+	font-size: 14px;
+	text-align: center;
+}
+.bodyheader {
+	font-family: 'Raleway', Geneva, Helvetica, Trebuchet MS, Geneva, Arial, sans-serif;
+	line-height: 120%;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	color: #cc0033;
+}
+.bodyheadersmall {
+	font-family: Geneva, Helvetica, Trebuchet MS, Geneva, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+	color: #F00;
+}
+.whiteheadersmall {
+	font-family: Geneva, Helvetica, Trebuchet MS, Geneva, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: left;
+}
+.signature {
+	font-size: 10px;
+	font-family: "AvantGarde Bk BT", "AvantGarde Md BT", Arial, Verdana;
+	text-align: left;
+}
+.timestamp {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 10px;
+	text-align: left;
+}
+.run {
+	width:687px;
+	font-family: 'Muli', Verdana, Arial, Trebuchet MS, Geneva, Helvetica,;
+	font-style: normal;	
+	color: #666;
+	font-size: 14px;
+	line-height: 120%;
+	text-align: left;
+	padding:8px 8px 2px 15px;
+	border-top:1px solid #4f8a1e;
+	border-left:1px solid #4f8a1e;
+	border-right:1px solid #4f8a1e;
+	border-bottom:1px solid #4f8a1e;
+	margin-bottom:8px;
+}
+.feature {
+	width:687px;
+	font-family: 'Josefin Slab', AvantGarde Md BT, Verdana, Arial, Trebuchet MS, Geneva, Helvetica;
+	font-style: normal;	
+	color: #366;
+	font-size: 18px;
+	line-height: 120%;
+	text-align: left;
+	padding:8px 8px 2px 15px;
+	border-top:1px solid #4f8a1e;
+	border-left:1px solid #4f8a1e;
+	border-right:1px solid #4f8a1e;
+	border-bottom:1px solid #4f8a1e;
+	margin-bottom:8px;
+}
+.footer {
+	width:898px;
+	background:#4f8a1e;
+	font-size: 12px;
+	font-family: 'Muli', Verdana, Arial;
+	color: #fff;
+	text-align: center;
+	border-top:1px solid #17f221;
+	border-left:1px solid #17f221;
+	border-right:1px solid #17f221;
+	border-bottom:1px solid #17f221;
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+<table width="900" height="130" border="0">
+	<tr>
+		<td width="177" align="center"><img src="../images/bhhh2logo.png" width="156" height="117" alt="Bali Hash House Harriers 2" />
+		</td>
+        <td width="721">
+<!-- TemplateBeginEditable name="TopTab" --> 
+	<div class="toptab">
+  		<a class="navitab" href="aboutus.html">About us</a> 
+    	<a class="navitab" href="lifemembers.html">Life Members</a>
+    	<a class="navitab" href="mismanagement.html">Mismanagement</a>
+    	<a class="navitab" href="../contact.html">Contact us</a>
+	</div>
+<!-- TemplateEndEditable --> 
+  <div class="pageheader"><h1><strong>Bali Hash House Harriers 2</strong></h1></div>
+		</td>
+	</tr>
+</table>
+<table width="900" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+    	<td align="left">
+<!-- TemplateBeginEditable name="navitabs" -->
+  <a class="navitab" href="index.html">Home</a> 
+  <a class="navitab" href="gallery.html">Photo Gallery</a>
+  <a class="navitab" href="nextrunmap.html">Next Run Map</a>
+  <a class="navitab" href="runinstructions.html">Run Instructions</a>   
+  <a class="navitab" href="trash.html">Trash</a>  
+  <a class="navitab" href="maps.html">Maps</a>   
+<!-- TemplateEndEditable -->    
+    	</td>  
+		<td class="body" align="right">join us on <a href="http://www.facebook.com/pages/Bali-Hash-House-Harriers-2/374992395797?ref=ts&amp;v=wall#!/pages/Bali-Hash-House-Harriers-2/374992395797?ref=mf"><img src="../images/facebooklogo.gif" height="18" alt="facebook" /></a>    
+		</td>
+	</tr>
+</table>
+<table width="900" border="0" align="left" cellpadding="0" cellspacing="0"> 
+	<tr>
+		<td align="left" bgcolor="#FFF">
+<!-- TemplateBeginEditable name="pagebanner" -->
+<div class="pagebanner">Run #1192 The Bukit Buungan Run<br />
+Date: Saturday 22nd November 2014 Start time: 4:30pm<br />
+Hare: Spank My Monkey<br />
+Site: Buungan, Penglipuran, Bangli<br />
+Bali Street Atlas 3rd New Edition: Page 74 A4<br />
+</div>
+<!-- TemplateEndEditable -->       
+        </td>
+	</tr>
+</table>       
+<table width="900" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tr>
+    	<td width="712" valign="top">
+<!-- TemplateBeginEditable name="body" -->
+Body 
+<!-- TemplateEndEditable -->
+		</td>
+	  <td width="180" valign="top">     
+<div class="sidebar">
+<!-- TemplateBeginEditable name="sidebar" --> 
+    <ul>
+      <li><a href="../history.html" class="sidelink">Hash History</a></li>
+      <li><a href="../aguideforhares.html" class="sidelink">A Guide for Hares</a></li>
+      <li><a href="../ahoundsguide.html" class="sidelink">A Hound's Guide</a></li>
+      <li><a href="../hashlinks.html" class="sidelink">Hash Links</a></li>
+      <li><a href="../runinstructions.html" class="sidelink">Run Instructions</a></li>
+    </ul>
+<!-- TemplateEndEditable -->
+<div class="andy"><a href="runinstructions.html"><img src="../images/hashinstruction.png" width="140" height="129" alt="andy capp" /></a>
+<p><strong>Goals Of The Hash</strong><br />From the 1938 charter of the Kuala Lumpur Hash House Harriers:</p>
+</p>
+</div>
+<div class="goals">
+     <ul>
+      <li>To promote physical fitness among our members</li>
+      <li>To get rid of weekend hangovers</li>
+      <li>To acquire a good thirst and to satisfy it in bee</li>
+      <li>To persuade the older members that they are not as old as they feel</li>
+    </ul>
+</div>
+<div class="andy"><img src="../images/av-198791.gif" width="80" height="60" alt="cheeky" />
+</div>
+</div>
+		</td>
+	</tr>
+</table>              
+<table width="900" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div class="footer">Copyright 2015 Bali Hash House Harriers 2<br />
+    Updated 17th January 2015</div></td>
+  </tr>
+</table>
+<script type='text/javascript'>setTimeout(function(){{var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location && location.href && location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&ctf=True&ui=true&settings=Auto&from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); }},0);</script>
+</html>
